@@ -1,5 +1,3 @@
-# bs044B
-bs044B高校课程教务微信小程序源码 Java SpringBoot3 Vue3 文档 PPT
 ## 源码问题查看主页咨询
 
 ### 一、关键词
